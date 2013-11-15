@@ -1,0 +1,4 @@
+# ignored objects
+.idea/
+data/
+target/
