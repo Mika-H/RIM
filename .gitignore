@@ -1,4 +1,5 @@
 # ignored objects
+.gitignore
 .idea/
 data/
 target/
