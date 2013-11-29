@@ -1,0 +1,16 @@
+#maincontent~http://independentsday.org/
+/about.php~http://independentsday.org/
+/project_1210/~http://independentsday.org/
+/project_2424/~http://independentsday.org/
+/x_phase/one/pastevents.php~http://independentsday.org/
+/project_1210/~http://independentsday.org/
+http://netdiver.net/~http://independentsday.org/
+http://pixeltable.com/~http://independentsday.org/
+about.php~http://independentsday.org/
+/project_1210/~http://independentsday.org/
+x_phase/one/pastevents.php~http://independentsday.org/
+x_phase/one/manifesto.php~http://independentsday.org/
+#topofpage~http://independentsday.org/
+/x_phase/one/pastevents.php~http://independentsday.org/
+http://fye.cc/~http://independentsday.org/
+http://www.balboatech.com/aff.php?aff=005~http://independentsday.org/

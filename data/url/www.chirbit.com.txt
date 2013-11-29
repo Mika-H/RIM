@@ -1,0 +1,13 @@
+/password_reminder~http://www.chirbit.com/
+/signup~http://www.chirbit.com/
+http://bit.ly/ChirbitiOS~http://www.chirbit.com/
+https://twitter.com/share~http://www.chirbit.com/
+http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.chirbit.com%2F&media=http%3A%2F%2Fwww.chirbit.com%2Fimages%2Fchirbit-homepage-pinterest.jpg&description=Chirbit%20is%20a%20service%20that%20enables%20you%20to%20share%20your%20audio%20easily.%20Record%205%20minutes%20of%20audio%20directly%20from%20your%20browser%20with%20a%20webcam%20or%20share%20audio%20from%20your%20smartphone.%20Upload%20audio%20in%20a%20number%20of%20formats.%20Don't%20just%20type%20it%20chirbit.%20%3A)~http://www.chirbit.com/
+https://twitter.com/chirbit~http://www.chirbit.com/
+https://www.facebook.com/chirbit~http://www.chirbit.com/
+/~http://www.chirbit.com/
+/help/aboutus~http://www.chirbit.com/
+/help/contactus~http://www.chirbit.com/
+http://blog.chirbit.com/~http://www.chirbit.com/
+/help/faq~http://www.chirbit.com/
+/help/tos~http://www.chirbit.com/

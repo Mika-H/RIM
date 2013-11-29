@@ -1,0 +1,10 @@
+http://aaronparecki.com~http://pin13.net/
+http://caseorganic.com/~http://pin13.net/
+https://indieauth.com~http://pin13.net/
+http://news.indiewebcamp.com/~http://pin13.net/
+http://indiewebcamp.com~http://pin13.net/
+http://cyborganthropology.com~http://pin13.net/
+http://500lattes.aaron.pk~http://pin13.net/
+http://tantek.pbworks.com/w/page/19402946/NewBase60~http://pin13.net/
+javascript:void((function(){window.location='http://loqi.me/asin/'+window.location.pathname.match(/dp\/(.+)(\/|$)/)[1]})());~http://pin13.net/
+http://www.ladyada.net/learn/arduino/lesson2.html~http://pin13.net/

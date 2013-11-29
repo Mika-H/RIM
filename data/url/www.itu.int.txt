@@ -1,0 +1,40 @@
+/net/home/index.aspx~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+./recommendation.asp?lang=fr&parent=T-REC-E.123-200102-I~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+./recommendation.asp?lang=es&parent=T-REC-E.123-200102-I~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/home/sitemap.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/net/about/contact.aspx~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+_page.print~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/index.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/ITU-T/index.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/publications/sector.aspx?sector=2&lang=e~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+./recommendation.asp?lang=en&parent=T-REC~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+./recommendation.asp?lang=en&parent=T-REC-E~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+./recommendation.asp?lang=en&parent=T-REC-E.123~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/rec/new.asp?lang=en~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/net/search/searchframe.aspx?doctype=R&sector=T~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://ecs.itu.ch/publications/scripts/shopcart/basket.php~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/dms_pubrec/itu-t/rec/e/T-REC-E.123-200102-I!!TOC-HTM-E.htm~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/dms_pubrec/itu-t/rec/e/T-REC-E.123-200102-I!!SUM-HTM-E.htm~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!PDF-E&type=items~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!PDF-S&type=items~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!PDF-F&type=items~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+http://www.itu.int/TIES~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+http://www.itu.int/publications/online.htm~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+http://www.itu.int/POD/how-to-buy.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-E&type=items
+							~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-E&type=items
+~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-S&type=items
+							~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-S&type=items
+~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-F&type=items
+							~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+https://www.itu.int/rec/dologin.asp?lang=e&id=T-REC-E.123-200102-I!!MSW-F&type=items
+~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+#top~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/home/feedback/index.phtml~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/home/contact/index.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/home/copyright/index.html~http://www.itu.int/rec/T-REC-E.123-200102-I/en
+/home/feedback/index.phtml?mail=tsbmail~http://www.itu.int/rec/T-REC-E.123-200102-I/en

@@ -1,0 +1,8 @@
+/about~http://yfrog.com/
+/~http://yfrog.com/
+http://twitter.yfrog.com~http://yfrog.com/
+http://blog.imageshack.com~http://yfrog.com/
+/about~http://yfrog.com/
+/page/contact~http://yfrog.com/
+/page/tos~http://yfrog.com/
+/page/faq~http://yfrog.com/

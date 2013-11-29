@@ -1,0 +1,16 @@
+/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/setup?state=%2Fgears%2F~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/products/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/events/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/showcase/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/live/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/groups/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+http://gearsblog.blogspot.com/2010/02/hello-html5.html~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+http://www.google.com/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/site-terms~http://code.google.com/apis/gears/upcoming/api_localserver.html
+http://www.google.com/intl/en/privacy/~http://code.google.com/apis/gears/upcoming/api_localserver.html
+/jobs~http://code.google.com/apis/gears/upcoming/api_localserver.html
+~http://code.google.com/apis/gears/upcoming/api_localserver.html
+http://www.google.com/+~http://code.google.com/apis/gears/upcoming/api_localserver.html

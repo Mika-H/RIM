@@ -1,0 +1,16 @@
+/~http://www.davidrivers.name/
+/blog~http://www.davidrivers.name/
+/portfolio~http://www.davidrivers.name/
+/contact~http://www.davidrivers.name/
+http://feeds.feedburner.com/davidrivers~http://www.davidrivers.name/
+/blogroll~http://www.davidrivers.name/
+http://www.davidrivers.name/~http://www.davidrivers.name/
+/portfolio~http://www.davidrivers.name/
+/blog~http://www.davidrivers.name/
+/portfolio#recommendations~http://www.davidrivers.name/
+/blog/2010/07/24/google-indexes-javascript~http://www.davidrivers.name/
+/blog/2010/07/13/blog-site-redesign~http://www.davidrivers.name/
+/license~http://www.davidrivers.name/
+http://github.com/DavidRivers~http://www.davidrivers.name/
+http://stackoverflow.com/users/224192/david-rivers~http://www.davidrivers.name/
+http://www.linkedin.com/in/davidrivers~http://www.davidrivers.name/

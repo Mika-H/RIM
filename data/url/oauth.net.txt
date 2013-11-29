@@ -1,0 +1,9 @@
+/~http://oauth.net
+/about~http://oauth.net
+/advisories~http://oauth.net
+/documentation~http://oauth.net
+/code~http://oauth.net
+/community~http://oauth.net
+http://tools.ietf.org/html/rfc6749~http://oauth.net
+documentation/getting-started~http://oauth.net
+/2/~http://oauth.net

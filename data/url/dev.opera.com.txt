@@ -1,0 +1,15 @@
+/~http://dev.opera.com/libraries/activitystream/
+https://dev.opera.com/community/login/~http://dev.opera.com/libraries/activitystream/
+/web~http://dev.opera.com/libraries/activitystream/
+/addons~http://dev.opera.com/libraries/activitystream/
+/mobile~http://dev.opera.com/libraries/activitystream/
+/tv~http://dev.opera.com/libraries/activitystream/
+/labs~http://dev.opera.com/libraries/activitystream/
+https://github.com/operasoftware/~http://dev.opera.com/libraries/activitystream/
+https://github.com/operasoftware/unite-libraries~http://dev.opera.com/libraries/activitystream/
+https://github.com/operasoftware/widgets-libraries~http://dev.opera.com/libraries/activitystream/
+https://github.com/operasoftware/widgets-libraries~http://dev.opera.com/libraries/activitystream/
+https://github.com/operasoftware/widgets-libraries~http://dev.opera.com/libraries/activitystream/
+/help~http://dev.opera.com/libraries/activitystream/
+http://my.opera.com/community/terms-of-service/?utm_source=devopera&utm_medium=footer&utm_campaign=devlinks~http://dev.opera.com/libraries/activitystream/
+/privacy~http://dev.opera.com/libraries/activitystream/

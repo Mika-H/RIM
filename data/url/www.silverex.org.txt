@@ -1,0 +1,15 @@
+../news/~http://www.silverex.org/download/
+../features/~http://www.silverex.org/download/
+../download/~http://www.silverex.org/download/
+../faq/~http://www.silverex.org/download/
+../compiling/~http://www.silverex.org/download/
+xchat.png~http://www.silverex.org/download/
+xchat-2.8.6-2.exe~http://www.silverex.org/download/
+archive.php~http://www.silverex.org/download/
+http://www.activestate.com/Products/activeperl/~http://www.silverex.org/download/
+http://www.python.org/download/~http://www.silverex.org/download/
+http://rubyforge.org/frs/?group_id=167~http://www.silverex.org/download/
+http://www.activestate.com/Products/activetcl/~http://www.silverex.org/download/
+/news/feed/atom/~http://www.silverex.org/download/
+http://www.amdwebhost.com/~http://www.silverex.org/download/
+mailto:vaidrius [at] silverex [dot] info~http://www.silverex.org/download/

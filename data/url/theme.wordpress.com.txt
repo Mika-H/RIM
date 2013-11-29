@@ -1,0 +1,10 @@
+//wordpress.com/~http://theme.wordpress.com/themes/journalist/
+http://en.wordpress.com/wp-login.php~http://theme.wordpress.com/themes/journalist/
+http://wordpress.com/themes/~http://theme.wordpress.com/themes/journalist/
+http://support.wordpress.com/~http://theme.wordpress.com/themes/journalist/
+http://blog.wordpress.com/~http://theme.wordpress.com/themes/journalist/
+http://wordpress.com/features/~http://theme.wordpress.com/themes/journalist/
+http://signup.wordpress.com/signup/~http://theme.wordpress.com/themes/journalist/
+http://theme.wordpress.com/~http://theme.wordpress.com/themes/journalist/
+http://theme.wordpress.com/~http://theme.wordpress.com/themes/journalist/
+http://automattic.com/~http://theme.wordpress.com/themes/journalist/

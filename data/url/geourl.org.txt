@@ -1,0 +1,10 @@
+/~http://geourl.org/near/?p=http://tantek.com/log
+/~http://geourl.org/near/?p=http://tantek.com/log
+/add.html~http://geourl.org/near/?p=http://tantek.com/log
+/add.html~http://geourl.org/near/?p=http://tantek.com/log
+/ping~http://geourl.org/near/?p=http://tantek.com/log
+/ping?p=tantek.com%2Flog~http://geourl.org/near/?p=http://tantek.com/log
+http://www.askbjoernhansen.com/~http://geourl.org/near/?p=http://tantek.com/log
+mailto:ask@develooper.com~http://geourl.org/near/?p=http://tantek.com/log
+/about.html~http://geourl.org/near/?p=http://tantek.com/log
+http://creativecommons.org/licenses/by-sa/2.0/~http://geourl.org/near/?p=http://tantek.com/log

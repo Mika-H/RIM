@@ -1,0 +1,8 @@
+features.htm~http://www.aquaticx.com/
+screenshots.htm~http://www.aquaticx.com/
+rnotes.htm~http://www.aquaticx.com/
+downloads.htm~http://www.aquaticx.com/
+script.htm~http://www.aquaticx.com/
+forum/~http://www.aquaticx.com/
+buy.htm~http://www.aquaticx.com/
+http://www.apple.com/macosx~http://www.aquaticx.com/

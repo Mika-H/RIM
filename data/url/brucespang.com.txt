@@ -1,0 +1,5 @@
+http://fastly.com~http://brucespang.com/
+mailto:hello@brucespang.com~http://brucespang.com/
+http://github.com/brucespang~http://brucespang.com/
+http://twitter.com/brucespang~http://brucespang.com/
+http://brucespang.com/resume.pdf~http://brucespang.com/

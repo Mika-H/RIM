@@ -1,0 +1,3 @@
+description~http://gmpg.org/xmdp
+samplehtmlprofile~http://gmpg.org/xmdp
+../~http://gmpg.org/xmdp

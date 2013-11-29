@@ -1,0 +1,13 @@
+https://www.yahoo.com~http://360.yahoo.com/alidiabali
+https://login.yahoo.com/config/login?.src=ymbr&.intl=us&.lang=en-US&.done=https://login.yahoo.com/config/login%3f.done=http%253A%252F%252Fprofile.yahoo.com%26.src=good%26.intl=us%26.pd=c%253DtRs3gHOp2e6F7FxRA1dqWx0-~http://360.yahoo.com/alidiabali
+https://login.yahoo.com/config/login?.src=ymbr&.intl=us&.lang=en-US&.done=https://login.yahoo.com/config/login%3f.done=http%253A%252F%252Fprofile.yahoo.com%26.src=good%26.intl=us%26.pd=c%253DtRs3gHOp2e6F7FxRA1dqWx0-~http://360.yahoo.com/alidiabali
+http://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_ACCT~http://360.yahoo.com/alidiabali
+https://edit.yahoo.com/config/eval_forgot_pw?new=1&.done=http%3A//profile.yahoo.com&.src=good&partner=&.intl=us&.lang=en-US&pkg=&stepid=&.pd=good_ver%3d0%26c=tRs3gHOp2e6F7FxRA1dqWx0-&.ab=&.last=~http://360.yahoo.com/alidiabali
+https://login.yahoo.com/config/login?.src=good&.intl=us&.lang=en-US&.help=1&.v=0&.u=dbfu3ep98ch85&.last=&.last=&promo=&.bypass=&.partner=&pkg=&stepid=&.pd=good_ver%253D0%2526c%253DtRs3gHOp2e6F7FxRA1dqWx0-%2526ivt%253D%2526sg%253D&.ab=&.done=http%3A//profile.yahoo.com~http://360.yahoo.com/alidiabali
+https://open.login.yahoo.com/openid/yrp/signin?idp=facebook&ts=1384531205&.intl=us&.lang=en-US&.done=http%3A%2F%2Fprofile.yahoo.com&rpcrumb=fTrjdbvCYc4&.src=good~http://360.yahoo.com/alidiabali
+https://open.login.yahoo.com/openid/yrp/signin?idp=google&ts=1384531205&.intl=us&.lang=en-US&.done=http%3A%2F%2Fprofile.yahoo.com&rpcrumb=fTrjdbvCYc4&.src=good~http://360.yahoo.com/alidiabali
+https://edit.yahoo.com/config/eval_register?.intl=us&.lang=en-US&.pd=good_ver%253D0%2526c%253DtRs3gHOp2e6F7FxRA1dqWx0-%2526ivt%253D%2526sg%253D&new=1&.done=http%3A//profile.yahoo.com&.src=good&.v=0&.u=dbfu3ep98ch85&partner=&.partner=&pkg=&stepid=&.p=&promo=&.last=~http://360.yahoo.com/alidiabali
+https://legalredirect.yahoo.com/copyright?intl=us&lang=en-US~http://360.yahoo.com/alidiabali
+https://legalredirect.yahoo.com/utos?intl=us&lang=en-US~http://360.yahoo.com/alidiabali
+http://security.yahoo.com~http://360.yahoo.com/alidiabali
+https://legalredirect.yahoo.com/privacy?intl=us&lang=en-US~http://360.yahoo.com/alidiabali

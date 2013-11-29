@@ -1,0 +1,9 @@
+#skip_menu~http://www.loc.gov/standards/datetime/
+http://www.loc.gov/~http://www.loc.gov/standards/datetime/
+http://www.loc.gov/standards/~http://www.loc.gov/standards/datetime/
+pre-submission.html~http://www.loc.gov/standards/datetime/
+implementations.html~http://www.loc.gov/standards/datetime/
+listserv.html~http://www.loc.gov/standards/datetime/
+http://www.loc.gov/~http://www.loc.gov/standards/datetime/
+http://www.loc.gov/standards/~http://www.loc.gov/standards/datetime/
+datetime-contact.php~http://www.loc.gov/standards/datetime/

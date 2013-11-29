@@ -1,0 +1,10 @@
+/~http://www.ifttt.com/
+/wtf~http://www.ifttt.com/
+/login~http://www.ifttt.com/
+/join~http://www.ifttt.com/
+/wtf~http://www.ifttt.com/
+http://blog.ifttt.com~http://www.ifttt.com/
+/contact~http://www.ifttt.com/
+/jobs~http://www.ifttt.com/
+/terms~http://www.ifttt.com/
+/privacy~http://www.ifttt.com/

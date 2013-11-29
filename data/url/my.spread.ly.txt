@@ -1,0 +1,10 @@
+/~http://my.spread.ly/share/51d570bc09e9486562000002
+/statistics~http://my.spread.ly/share/51d570bc09e9486562000002
+#~http://my.spread.ly/share/51d570bc09e9486562000002
+/shares~http://my.spread.ly/share/51d570bc09e9486562000002
+/shares/global~http://my.spread.ly/share/51d570bc09e9486562000002
+/share/51d570bc09e9486562000002~http://my.spread.ly/share/51d570bc09e9486562000002
+http://www.sandeep.io/98~http://my.spread.ly/share/51d570bc09e9486562000002
+http://spreadly.com/imprint~http://my.spread.ly/share/51d570bc09e9486562000002
+http://spreadly.com/system/privacy~http://my.spread.ly/share/51d570bc09e9486562000002
+http://spreadly.com/system/tos~http://my.spread.ly/share/51d570bc09e9486562000002

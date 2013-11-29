@@ -1,0 +1,12 @@
+http://animoto.com~http://help.animoto.com/entries/109992-oEmbed-API
+/home~http://help.animoto.com/entries/109992-oEmbed-API
+/home~http://help.animoto.com/entries/109992-oEmbed-API
+/anonymous_requests/new~http://help.animoto.com/entries/109992-oEmbed-API
+/requests~http://help.animoto.com/entries/109992-oEmbed-API
+/forums~http://help.animoto.com/entries/109992-oEmbed-API
+/categories/12-Animoto-Resources~http://help.animoto.com/entries/109992-oEmbed-API
+/forums/120209-Developer-Resources~http://help.animoto.com/entries/109992-oEmbed-API
+https://twitter.com/share~http://help.animoto.com/entries/109992-oEmbed-API
+oembed.com/~http://help.animoto.com/entries/109992-oEmbed-API
+http://animoto.com/play/*~http://help.animoto.com/entries/109992-oEmbed-API
+http://www.zendesk.com/help-desk-software~http://help.animoto.com/entries/109992-oEmbed-API

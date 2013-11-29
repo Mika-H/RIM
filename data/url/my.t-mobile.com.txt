@@ -1,0 +1,13 @@
+https://www.t-mobile.com/~http://my.t-mobile.com
+/Default.aspx~http://my.t-mobile.com
+http://www.t-mobile.com/support/~http://my.t-mobile.com
+http://www.t-mobile.com/Contact.aspx~http://my.t-mobile.com
+http://www.t-mobile.com/store-locator.html~http://my.t-mobile.com
+javascript:void('');~http://my.t-mobile.com
+http://www.t-mobile.com/coverage.html~http://my.t-mobile.com
+http://www.t-mobile.com/Company/~http://my.t-mobile.com
+javascript:void('');~http://my.t-mobile.com
+javascript:void('');~http://my.t-mobile.com
+javascript:void('');~http://my.t-mobile.com
+javascript:void('');~http://my.t-mobile.com
+javascript:var popupwin=window.open('http://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_Ftr_Copyright&print=true',922,'width=568,height=400,screenX=568,screenY=400,left=50,top=50,toolbar=no,location=no,menubar=no,status=no,resizable,scrollbars');~http://my.t-mobile.com

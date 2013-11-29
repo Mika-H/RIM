@@ -1,0 +1,8 @@
+/~http://publicsuffix.org/
+/learn/~http://publicsuffix.org/
+/list/~http://publicsuffix.org/
+/submit/~http://publicsuffix.org/
+http://www.mozilla.org/~http://publicsuffix.org/
+/learn/~http://publicsuffix.org/
+/submit/~http://publicsuffix.org/
+http://www.mozilla.org/~http://publicsuffix.org/

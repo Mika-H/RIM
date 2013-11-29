@@ -1,0 +1,17 @@
+versit-to-imc.html~http://www.imc.org/pdi/
+http://www.imc.org/rfc2425~http://www.imc.org/pdi/
+http://www.imc.org/rfc2426~http://www.imc.org/pdi/
+vcardoverview.html~http://www.imc.org/pdi/
+vcardwhite.html~http://www.imc.org/pdi/
+pdiproddev.html~http://www.imc.org/pdi/
+vcard-pronunciation.html~http://www.imc.org/pdi/
+http://microformats.org/wiki/hcard~http://www.imc.org/pdi/
+/rfc2445~http://www.imc.org/pdi/
+/rfc2446~http://www.imc.org/pdi/
+/rfc2447~http://www.imc.org/pdi/
+vcaloverview.html~http://www.imc.org/pdi/
+vcalwhite.html~http://www.imc.org/pdi/
+pdiproddev.html~http://www.imc.org/pdi/
+/ietf-calendar/~http://www.imc.org/pdi/
+http://microformats.org/wiki/hcalendar~http://www.imc.org/pdi/
+http://www.imc.org/~http://www.imc.org/pdi/

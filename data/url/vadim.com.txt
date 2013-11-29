@@ -1,0 +1,2 @@
+/index.html~http://vadim.com/
+/~http://vadim.com/

@@ -1,0 +1,6 @@
+/~http://tools.microformatic.com/help/xhtml/rel-lint/
+http://en.wikipedia.org/wiki/Lint_programming_tool~http://tools.microformatic.com/help/xhtml/rel-lint/
+http://gmpg.org/xfn/~http://tools.microformatic.com/help/xhtml/rel-lint/
+http://microformats.org/wiki/rel-tag~http://tools.microformatic.com/help/xhtml/rel-lint/
+javascript:var s=document.createElement('script');s.setAttribute('src', 'http://tools.microformatic.com/rel-lint/rel-lint.js');document.getElementsByTagName('head')[0].appendChild(s);void(s);~http://tools.microformatic.com/help/xhtml/rel-lint/
+/rel-lint/rel-lint.js~http://tools.microformatic.com/help/xhtml/rel-lint/

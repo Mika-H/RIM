@@ -1,0 +1,12 @@
+/wiki/pie/FrontPage~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+/wiki/pie/UserPreferences~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+/wiki/pie/PaceBetterPersonElement?action=fullsearch&value=PaceBetterPersonElement&literal=1&case=1&context=40~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://microformats.org/wiki/hcard~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://microformats.org/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://microformats.org/wiki/hcard~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://suda.co.uk/projects/X2V/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://tantek.com/microformats/hcard-creator.html~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://tantek.com/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://moinmoin.wikiwikiweb.de/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement
+http://www.python.org/~http://www.intertwingly.net/wiki/pie/PaceBetterPersonElement

@@ -1,0 +1,6 @@
+../~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm
+../documentation/iso-date-normalisation.htm~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm
+default.htm~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm
+http://www.glennjones.net/~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm
+http://www.barcampbrighton.org/~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm
+../license.txt~http://ufxtract.com/testsuite/hcalendar/hcalendar1.htm

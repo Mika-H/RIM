@@ -1,0 +1,14 @@
+/Main_Page~http://cyborganthropology.com/Eliza
+/wiki/index.php?title=Bootstrap:TitleBar&action=edit&redlink=1~http://cyborganthropology.com/Eliza
+/wiki/index.php?title=Special:UserLogin~http://cyborganthropology.com/Eliza
+/wiki/index.php?title=MIT&action=edit&redlink=1~http://cyborganthropology.com/Eliza
+#cite_note-0~http://cyborganthropology.com/Eliza
+/ALICE~http://cyborganthropology.com/Eliza
+/wiki/index.php?title=Chatbot&action=edit&redlink=1~http://cyborganthropology.com/Eliza
+/Nerdle~http://cyborganthropology.com/Eliza
+#cite_ref-0~http://cyborganthropology.com/Eliza
+http://cyborganthropology.com/Eliza~http://cyborganthropology.com/Eliza
+/wiki/index.php?title=Bootstrap:Footer&action=edit&redlink=1~http://cyborganthropology.com/Eliza
+http://mediawiki.org~http://cyborganthropology.com/Eliza
+https://github.com/aaronpk/Bootstrap-Skin~http://cyborganthropology.com/Eliza
+http://aaronparecki.com~http://cyborganthropology.com/Eliza

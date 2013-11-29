@@ -1,0 +1,15 @@
+//pidgin.im/~http://pidgin.im/
+/download/~http://pidgin.im/
+https://developer.pidgin.im/wiki/ThirdPartyPlugins~http://pidgin.im/
+/support/~http://pidgin.im/
+/about/~http://pidgin.im/
+http://planet.pidgin.im/~http://pidgin.im/
+https://developer.pidgin.im/~http://pidgin.im/
+/download/~http://pidgin.im/
+https://developer.pidgin.im/wiki/ChangeLog~http://pidgin.im/
+/about/~http://pidgin.im/
+/news/security/~http://pidgin.im/
+https://developer.pidgin.im/wiki/WhatIsLibpurple~http://pidgin.im/
+http://www.networkredux.com/~http://pidgin.im/
+http://blendinteractive.com/~http://pidgin.im/
+http://sourceforge.net/projects/pidgin~http://pidgin.im/

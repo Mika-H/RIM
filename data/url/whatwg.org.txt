@@ -1,0 +1,11 @@
+http://www.whatwg.org/specs/web-apps/current-work/multipage/~http://whatwg.org
+http://developers.whatwg.org/~http://whatwg.org
+http://www.whatwg.org/mailing-list~http://whatwg.org
+http://wiki.whatwg.org/~http://whatwg.org
+http://www.whatwg.org/mailing-list#help~http://whatwg.org
+http://forums.whatwg.org/~http://whatwg.org
+http://wiki.whatwg.org/wiki/FAQ~http://whatwg.org
+http://www.whatwg.org/specs/~http://whatwg.org
+http://wiki.whatwg.org/wiki/IRC~http://whatwg.org
+/mailing-list~http://whatwg.org
+mailto:ian+whatwg@hixie.ch~http://whatwg.org

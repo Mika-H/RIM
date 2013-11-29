@@ -1,0 +1,16 @@
+/index.html~http://www.mirc.com/
+/index.html~http://www.mirc.com/
+/about.html~http://www.mirc.com/
+/get.html~http://www.mirc.com/
+/register.html~http://www.mirc.com/
+/news.html~http://www.mirc.com/
+/help.html~http://www.mirc.com/
+about.html~http://www.mirc.com/
+get.html~http://www.mirc.com/
+register.html~http://www.mirc.com/
+news.html~http://www.mirc.com/
+http://download.cnet.com/mIRC/3000-2150_4-10001733.html?part=dl-50355&subj=dl&tag=button~http://www.mirc.com/
+mailing.html~http://www.mirc.com/
+forums.php~http://www.mirc.com/
+/privacy.html~http://www.mirc.com/
+/contact.html~http://www.mirc.com/

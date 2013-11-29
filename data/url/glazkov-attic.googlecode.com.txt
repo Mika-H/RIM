@@ -1,0 +1,4 @@
+../~http://glazkov-attic.googlecode.com/svn/trunk/YourTimesheets/Sql/
+setup.sql~http://glazkov-attic.googlecode.com/svn/trunk/YourTimesheets/Sql/
+http://code.google.com/~http://glazkov-attic.googlecode.com/svn/trunk/YourTimesheets/Sql/
+http://subversion.apache.org/~http://glazkov-attic.googlecode.com/svn/trunk/YourTimesheets/Sql/

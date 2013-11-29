@@ -1,0 +1,9 @@
+screenshots.html~http://colloquy.info/
+downloads.html~http://colloquy.info/
+donations.html~http://colloquy.info/
+project~http://colloquy.info/
+http://colloquy.mobi/~http://colloquy.info/
+http://silcnet.org~http://colloquy.info/
+http://www.icb.net~http://colloquy.info/
+http://www.mozilla.org/projects/camino/~http://colloquy.info/
+http://www.javelin.cc~http://colloquy.info/

@@ -1,0 +1,15 @@
+//en.wordpress.com/~http://www.wordpress.com/
+#home-signin~http://www.wordpress.com/
+#video~http://www.wordpress.com/
+//en.wordpress.com/signup/~http://www.wordpress.com/
+http://en.wordpress.com/wp-login.php?action=lostpassword~http://www.wordpress.com/
+//wordpress.com/fresh/~http://www.wordpress.com/
+//theme.wordpress.com/~http://www.wordpress.com/
+//store.wordpress.com/~http://www.wordpress.com/
+//en.wordpress.com/features/~http://www.wordpress.com/
+//blog.wordpress.com~http://www.wordpress.com/
+//en.wordpress.com/stats/~http://www.wordpress.com/
+//vip.wordpress.com/~http://www.wordpress.com/
+//en.wordpress.com/tos/~http://www.wordpress.com/
+//automattic.com/privacy/~http://www.wordpress.com/
+//automattic.com/~http://www.wordpress.com/

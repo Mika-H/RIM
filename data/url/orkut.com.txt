@@ -1,0 +1,5 @@
+https://support.google.com/accounts/?p=securesignin&hl=en~http://orkut.com
+https://accounts.google.com/RecoverAccount?service=orkut&continue=http%3A%2F%2Fwww.orkut.com%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%3A%2F%2Fwww.orkut.com%2FMain~http://orkut.com
+https://accounts.google.com/SignUp?service=orkut&continue=http%3A%2F%2Fwww.orkut.com%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%3A%2F%2Fwww.orkut.com%2FMain~http://orkut.com
+https://accounts.google.com/TOS?loc=UA&hl=en~http://orkut.com
+http://www.google.com/support/accounts?hl=en~http://orkut.com

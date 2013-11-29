@@ -1,0 +1,10 @@
+https://github.com/glennjones/microformat-shiv/archive/master.zip~http://microformatshiv.com/
+https://github.com/glennjones/microformat-shiv~http://microformatshiv.com/
+code.html~http://microformatshiv.com/
+code.html~http://microformatshiv.com/
+extensions.html~http://microformatshiv.com/
+extensions.html~http://microformatshiv.com/
+h-adr.html~http://microformatshiv.com/
+h-adr.html~http://microformatshiv.com/
+license.html~http://microformatshiv.com/
+http://glennjones.net/~http://microformatshiv.com/

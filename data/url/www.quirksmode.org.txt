@@ -1,0 +1,16 @@
+/book/~http://www.quirksmode.org/js/dom0.html
+http://www.misfu.com/static/Javascript/dom0.html~http://www.quirksmode.org/js/dom0.html
+#intro~http://www.quirksmode.org/js/dom0.html
+#history~http://www.quirksmode.org/js/dom0.html
+#access~http://www.quirksmode.org/js/dom0.html
+#use~http://www.quirksmode.org/js/dom0.html
+#use~http://www.quirksmode.org/js/dom0.html
+../dom/intro.html~http://www.quirksmode.org/js/dom0.html
+http://www.w3.org~http://www.quirksmode.org/js/dom0.html
+http://www.webstandards.org~http://www.quirksmode.org/js/dom0.html
+http://www.mozilla.org~http://www.quirksmode.org/js/dom0.html
+../dom/intro.html~http://www.quirksmode.org/js/dom0.html
+strings.html~http://www.quirksmode.org/js/dom0.html
+forms.html~http://www.quirksmode.org/js/dom0.html
+/home.html~http://www.quirksmode.org/js/dom0.html
+/sitemap.html~http://www.quirksmode.org/js/dom0.html

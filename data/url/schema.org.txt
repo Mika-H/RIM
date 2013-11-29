@@ -1,0 +1,6 @@
+docs/documents.html~http://schema.org
+docs/schemas.html~http://schema.org
+.~http://schema.org
+docs/gs.html~http://schema.org
+http://blog.schema.org~http://schema.org
+docs/terms.html~http://schema.org

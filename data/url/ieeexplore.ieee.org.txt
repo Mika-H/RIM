@@ -1,0 +1,86 @@
+#primary-content~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:_void()~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://www.ieee.org/~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://standards.ieee.org/~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://spectrum.ieee.org/~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://www.ieee.org/sitemap.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:Modal.show('/xpl/mwRegistrationIntro.jsp')~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/home.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:Modal.show('/xpl/mwInstSignIn.jsp')~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:redirectToWayf()~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/books.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/conferences.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/courses.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/periodicals.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/standards.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/tocalerts_list.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/articleSale/purchaseHistory.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/login.jsp?url=/search/savedsearches&reason=fromSavedSearchesMenu~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/login.jsp?reason=fromPreferencesMenu~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/accessinfo.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/myprojects/showUserProjects.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/accessinfo.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/aboutUs.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/termsOfUse.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/feedback.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplorehelp/Help_start.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/search/advsearch.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplore/login.jsp?reason=fromPreferencesMenu~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/search/advsearch.jsp?expression-builder~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/search/advsearch.jsp?quick-search~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/search/savedsearches~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/search/searchHistoryMore.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+standards.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+mostRecentIssue.jsp?punumber=4610933~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplorehelp/Help_Standards.htm~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/assets/v2/html/download_citations.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/assets/v2/html/email_document.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/articleDetails.jsp?arnumber=4610935&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A4610934%29~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:loginRedirect('saveToProjectRequiresSignIn')~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+#~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/stamp/stamp.jsp?tp=&arnumber=4610935~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:Modal.show('/xpl/mwMemberSignIn.jsp')~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+javascript:Modal.show('/xpl/mwRegistrationIntro.jsp')~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/articleSale/purchaseHistory.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/commprefs/showcommPrefpage.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/techform.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/aboutUs.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/techform.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/Xplorehelp/Help_start.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/termsOfUse.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+/xpl/sitemap.jsp~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+http://www.ieee.org/about/help/security_privacy.html~http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
