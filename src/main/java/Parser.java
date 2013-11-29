@@ -247,10 +247,14 @@ public class Parser {
     public static void main(String[] args)throws IOException {
         createDataTree();
         long start = new Date().getTime();
-        ArrayList<String>test = parse("http://microformats.org");
+        ArrayList<String>test = new ArrayList<>();/* = parse("http://microformats.org");*/
+        test.add("http://microformats.org");
+        test.add("http://ukr.net");
+        test.add("http://slando.ua");
+
         ArrayList<String> temp= new ArrayList<String>();
         int i = 0;
-        for(int p=0; p<1; p++){
+        for(int p=0; p<2; p++){
             for (String task:test){
                 System.out.println(i+". "+task);
                 temp.addAll(parse(task));
@@ -259,7 +263,7 @@ public class Parser {
                 if(i%50==0){
                     long tempTime =new Date().getTime()-start;
                     System.out.println("Время парсинга "+i+" страниц"+tempTime/1000+" секунд.");
-                    System.out.println("Среднее время парсинга одной страницы: "+tempTime/(1000*i)+" секунд");
+                    System.out.println("Среднее время парсинга одной страницы: "+tempTime/(1000.00*i)+" секунд");
                 }
 
             }

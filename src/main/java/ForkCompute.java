@@ -4,7 +4,7 @@ import java.util.concurrent.RecursiveAction;
 import java.util.concurrent.RecursiveTask;
 
 public class ForkCompute extends RecursiveTask<ArrayList> {
-    final static int threshold = 10;
+    final static int threshold = 50;
     protected static int countParsedPages = 0;
     private ArrayList<String> resList = new ArrayList<>();
 
